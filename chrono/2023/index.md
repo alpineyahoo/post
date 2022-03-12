@@ -1,7 +1,7 @@
 # 2023
 - [Jan](/post/chrono/2023/01)
 - [Feb](/post/chrono/2023/02)
-- [Mar](/post/chrono/2023/03/)
+- [Mar](/post/chrono/2023/03)
 - [Apr](/post/chrono/2023/04)
 - [May](/post/chrono/2023/05)
 - [Jun](/post/chrono/2023/06)
