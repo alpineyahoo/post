@@ -11,4 +11,4 @@
 - [2030](/post/chrono/2030)
 
 ---
-[home](/home)
+[home](/home) | [tag](/post/tag) | [all posts](/post/items)
