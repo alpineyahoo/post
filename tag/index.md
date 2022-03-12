@@ -1,4 +1,4 @@
 # tag
-[Applescript](/post/tag/applescript)
+- [Applescript](/post/tag/applescript)
 ---
 [home](/home) | [post](/post)
