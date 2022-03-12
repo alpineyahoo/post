@@ -1,5 +1,6 @@
 # Applescript
-ここに記事のリンクリスト
+
+- ここに記事のリンクリスト
 
 ---
 [home](/home) | [post](/post) | [tag](/post/tag)
