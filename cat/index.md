@@ -1,2 +1,2 @@
-# カテゴリー
+# category
 ### [home](/home)
